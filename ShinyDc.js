@@ -2,10 +2,12 @@
 // @name         Shiny Discord Notifications
 // @description  Wysyła sh alerty na dc
 // @author       ZHMB
-// @version      0.0.1
+// @version      0.0.4
 // @match        https://gra.pokelife.pl/*
 // @grant        none
-
+// @inject-into  content
+// @updateURL    https://github.com/MichalKandybowicz/DcShiny/blob/main/ShinyDc.js
+// @downloadURL  https://github.com/MichalKandybowicz/DcShiny/blob/main/ShinyDc.js
 // ==/UserScript==
 
 let licznik = 0; 
