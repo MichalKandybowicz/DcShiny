@@ -3,9 +3,9 @@
 // @description  Wysyła sh alerty na dc
 // @author       ZHMB
 // @version      0.0.1
-// @match        *://*/*
+// @match        https://gra.pokelife.pl/*
 // @grant        none
-// @inject-into  content
+
 // ==/UserScript==
 
 let licznik = 0; 
